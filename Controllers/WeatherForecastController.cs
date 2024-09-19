@@ -101,6 +101,7 @@ namespace webapii.Controllers
         {
             string mensaje = string.Empty;
             Alumno Alumno3 = new Alumno("Cesar", "Loyola", "4370258", new DateTime(2002, 8, 19));
+            string numero = "siete";
             return Alumno3.DevolverEdad();
         }
 
