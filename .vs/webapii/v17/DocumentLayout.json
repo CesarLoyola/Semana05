@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\webapi\\webapii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9403A0-1676-4809-A666-97EEFE30D59A}|webapii.csproj|d:\\webapi\\webapii\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9403A0-1676-4809-A666-97EEFE30D59A}|webapii.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9403A0-1676-4809-A666-97EEFE30D59A}|webapii.csproj|d:\\webapi\\webapii\\controllers\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9403A0-1676-4809-A666-97EEFE30D59A}|webapii.csproj|solutionrelative:controllers\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\webapi\\webapii\\Controllers\\Alumno.cs",
+              "RelativeDocumentMoniker": "Controllers\\Alumno.cs",
+              "ToolTip": "D:\\webapi\\webapii\\Controllers\\Alumno.cs",
+              "RelativeToolTip": "Controllers\\Alumno.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:02:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\webapi\\webapii\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\webapi\\webapii\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAUwGYAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:30:02.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
